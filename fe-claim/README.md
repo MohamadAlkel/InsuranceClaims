@@ -1,4 +1,4 @@
-# InsuranceClaims
+# Tigerlab Claim page
 
 ---
 

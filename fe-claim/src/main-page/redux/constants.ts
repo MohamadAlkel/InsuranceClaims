@@ -1,0 +1,3 @@
+export const FETCH_CLAIMS = 'FETCH_CLAIMS';
+export const SUBMIT_CLAIM = 'SUBMIT_CLAIM';
+export const FILTER_CLAIMS = 'FILTER_CLAIMS';
